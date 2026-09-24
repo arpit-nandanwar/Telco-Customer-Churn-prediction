@@ -1,0 +1,15 @@
+# Telco Customer Churn Prediction
+
+A machine learning project to predict customer churn for a telecommunications company using Python and Scikit-Learn.
+
+## Project Overview
+This project analyzes customer data to identify patterns and predict whether a customer is likely to leave the service (churn). It helps businesses understand key risk factors and retain valuable customers.
+
+## Project Structure
+- `telco_churn_prediction.ipynb`: Jupyter notebook containing data preprocessing, exploratory data analysis (EDA), feature engineering, and model training.
+- `churn_model.pkl`: Saved machine learning model file.
+
+## Technologies Used
+- Python
+- Pandas, NumPy, Scikit-Learn
+- Jupyter Notebook / Google Colab
